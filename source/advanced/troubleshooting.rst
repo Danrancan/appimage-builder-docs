@@ -37,7 +37,7 @@ since ``v0.5.3``. This tool allow us to query information about a given target b
 
     optional arguments:
       -h, --help            show this help message and exit
-      --log LOGLEVEL        logging level (default: INFO)
+      --log LOGLEVEL        logging level (default: INFO, debug: DEBUG) (e.g. `appimage-inspector --log DEBUG`)
       --print-needed        Print bundle needed libraries
       --print-runtime-needed
                             Print bundle needed libraries for the current system
