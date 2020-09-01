@@ -135,7 +135,6 @@ is to generate the AppImage as follows:
 .. code-block:: text
    appimage-builder --skip-build --skip-test
 
-
 ===========
 What's next
 ===========
